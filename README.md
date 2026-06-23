@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Tannu%20Yadav&fontSize=75&fontColor=58a6ff&fontAlignY=35&desc=Full-Stack%20Product%20Engineer%20%7C%20Ships%20Real%20Systems&descSize=20&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%9A%80+8%2B+Production+Systems+Shipped;%E2%9A%A1+Sub-200ms+Filtering+on+5K%2B+Records;%F0%9F%9B%A1%EF%B8%8F+Zero+SQL+Injection+Incidents;%F0%9F%92%BC+Currently+%40+Codaphics" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=150&lines=%F0%9F%9A%80+8%2B+Production+Systems+Shipped;%E2%9A%A1+Sub-200ms+Filtering+on+5K%2B+Records;%F0%9F%9B%A1%EF%B8%8F+Zero+SQL+Injection+Incidents;%F0%9F%92%BC+Currently+%40+Codaphics" alt="Typing SVG" /></a>
 
 <br/>
 
