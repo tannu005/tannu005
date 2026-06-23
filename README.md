@@ -12,8 +12,6 @@
 [![Email](https://img.shields.io/badge/ytannu1410@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ytannu1410@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tannu-yadav-06012733a)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-orpin-eight-39.vercel.app/)
-[![GitHub](https://img.shields.io/github/followers/tannu005?style=for-the-badge&logo=github&label=Follow&color=1a1b27)](https://github.com/tannu005)
-[![Profile Views](https://komarev.com/ghpvc/?username=tannu005&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)](https://github.com/tannu005)
 
 </div>
 
@@ -290,34 +288,6 @@ Final-year CSE student (**B.Tech, VIT-AP University**, expected June 2027) with 
    └─ Built automated GIS pipelines processing 200+ sq km of satellite
       imagery; parameterized notebooks cut setup time from hours to minutes.
 ```
-
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tannu005&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tannu005&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tannu005&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-
-</div>
-
-<!-- GITHUB TROPHIES -->
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tannu005&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
-
-</div>
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=tannu005&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" />
-
-</div>
 
 <!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
