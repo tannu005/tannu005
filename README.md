@@ -24,7 +24,7 @@
 
 I build **production systems**, not tutorials.
 
-Final-year CSE student (**B.Tech, VIT-AP University**, expected June 2027) with **8+ deployed projects** spanning FinTech, AI/ML, DevSecOps, and IoT — handling real users and real constraints.
+Final-year CSE student (**B.Tech, VIT-AP University**, expected June 2027) with **8+ deployed projects** spanning FinTech, AI/ML, DevSecOps, and IoT - handling real users and real constraints.
 
 ```yaml
 🎯 Currently:    Full-Stack Web Developer @ Codaphics
@@ -253,7 +253,7 @@ Final-year CSE student (**B.Tech, VIT-AP University**, expected June 2027) with 
 ---
 
 ### 📡 ScreenGuard — IoT Safety Device
-> Cyber-physical IoT (ESP32 + OpenCV) — detects screen distance/age via DNN, auto-adjusts brightness
+> Cyber-physical IoT (ESP32 + OpenCV) - detects screen distance/age via DNN, auto-adjusts brightness
 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
@@ -276,15 +276,15 @@ Final-year CSE student (**B.Tech, VIT-AP University**, expected June 2027) with 
 ## 💼 Experience
 
 ```
-🏢 Codaphics                          Full-Stack Web Developer         May 2026 – Present
+🏢 Codaphics                          Full-Stack Web Developer         May 2026 - Present
    └─ Building & optimizing React.js interfaces, REST APIs, and database
       ops for 1K+ daily active users; cut UI render time by 25%.
 
-🏢 Zetheta                            Frontend Developer               Apr 2026 – May 2026
+🏢 Zetheta                            Frontend Developer               Apr 2026 - May 2026
    └─ Shipped Next.js 14 components (−35% page load), introduced Zustand
       across 10+ modules, built Storybook component library (25+ pieces).
 
-🏢 India Space Lab                    Geospatial Data Analyst Intern   Feb 2026 – Mar 2026
+🏢 India Space Lab                    Geospatial Data Analyst Intern   Feb 2026 - Mar 2026
    └─ Built automated GIS pipelines processing 200+ sq km of satellite
       imagery; parameterized notebooks cut setup time from hours to minutes.
 ```
